@@ -2,7 +2,7 @@
 
 **A Personal Portfolio &amp; Resume Web App.**
 
-Welcome to **MedAIrian**, my interactive portfolio showcasing my journey, skills, and projects as a Senior Machine Learning Engineer. Combining Mediterranean roots with over a decade of experience in Germany, this platform reflects my expertise and passion for artificial intelligence, machine learning, and innovation.
+Welcome to **Med.AI.rian**, my interactive portfolio showcasing my journey, skills, and projects as a Senior Machine Learning Engineer. Combining Mediterranean roots with over a decade of experience in Germany, this platform reflects my expertise and passion for artificial intelligence, machine learning, and innovation.
 
 ---
 
