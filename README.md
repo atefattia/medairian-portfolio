@@ -2,7 +2,7 @@
 
 **A Personal Portfolio &amp; Resume Web App.**
 
-Welcome to **MedAIrian**, my interactive portfolio showcasing my journey, skills, and projects as a Senior Machine Learning Engineer. Combining Mediterranean roots with over a decade of experience in Germany, this platform reflects my expertise and passion for artificial intelligence, machine learning, and innovation.  
+Welcome to **MedAIrian**, my interactive portfolio showcasing my journey, skills, and projects as a Senior Machine Learning Engineer. Combining Mediterranean roots with over a decade of experience in Germany, this platform reflects my expertise and passion for artificial intelligence, machine learning, and innovation.
 
 ---
 
@@ -26,16 +26,14 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 cat .python-version | uv python install
 ```
 
-## 🌟 Features  
+## 🌟 Features
 
-- **Interactive Resume**: Explore my career highlights and technical proficiencies.  
-- **Project Gallery**: A curated collection of my key machine learning projects, with demos and code links.  
-- **Contact Section**: Connect with me directly via email or LinkedIn.  
+- **Interactive Resume**: Explore my career highlights and technical proficiencies.
+- **Project Gallery**: A curated collection of my key machine learning projects, with demos and code links.
+- **Contact Section**: Connect with me directly via email or LinkedIn.
 
+## 🚀 Tech Stack
 
-## 🚀 Tech Stack  
-
-- **Frontend**: Streamlit for a sleek and responsive UI.  
-- **Backend**: Python-based logic powering interactive elements.  
-- **Hosting**: Deployed on [Streamlit Cloud](https://streamlit.io/cloud) for seamless performance.  
-
+- **Frontend**: Streamlit for a sleek and responsive UI.
+- **Backend**: Python-based logic powering interactive elements.
+- **Hosting**: Deployed on [Streamlit Cloud](https://streamlit.io/cloud) for seamless performance.

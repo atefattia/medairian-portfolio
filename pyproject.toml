@@ -1,0 +1,18 @@
+[project]
+name = "medairian-portfolio"
+version = "0.1.0"
+description = "A Personal Portfolio &amp; Resume Web App."
+readme = "README.md"
+authors = [{ name = "Atef Attia", email = "atef.1492@gmail.com" }]
+requires-python = ">=3.11"
+dependencies = [
+    "pillow>=11.1.0",
+    "streamlit>=1.41.1",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/medairian"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
