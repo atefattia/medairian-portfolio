@@ -2,8 +2,11 @@
 headless = true
 enableCORS=false
 port = 80
+[client]
+showSidebarNavigation=false
 [theme]
-primaryColor = "#d33682"
-backgroundColor = "#002b36"
-secondaryBackgroundColor = "#586e75"
-textColor = '#fff'
+primaryColor="#218db1"
+backgroundColor="#f0f0f5"
+secondaryBackgroundColor="#e0e0ef"
+textColor="#262730"
+font="sans serif"
