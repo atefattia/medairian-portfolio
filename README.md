@@ -32,7 +32,7 @@ cat .python-version | uv python install
 - **Project Gallery**: A curated collection of my key machine learning projects, with demos and code links.
 - **Contact Section**: Connect with me directly via email or LinkedIn.
 
-## 🚀 Tech Stack
+## 📟 Tech Stack
 
 - **Frontend**: Streamlit for a sleek and responsive UI.
 - **Backend**: Python-based logic powering interactive elements.
